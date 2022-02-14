@@ -1,3 +1,7 @@
+From article https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/
+
+Test the mermaid support on github.com
+
 ```mermaid
 sequenceDiagram
     participant dotcom
